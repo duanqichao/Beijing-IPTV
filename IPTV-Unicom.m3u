@@ -64,11 +64,11 @@ http://192.168.123.1:23234/rtp/239.3.1.183:8001
 #EXTINF:-1 tvg-name="CCTV16",CCTV-16 奥林匹克[高清]
 http://192.168.123.1:23234/rtp/239.3.1.184:8001
 #EXTINF:-1 tvg-name="CCTV16",CCTV-16 奥林匹克[高清][非官方]
-# http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
+http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV17",CCTV-17 农业农村[高清]
 http://192.168.123.1:23234/rtp/239.3.1.151:8144
 # #EXTINF:-1 tvg-name="CCTV4K",CCTV 4K超高清[超清HDR][非官方]
-# http://192.168.123.1:88/4k.php?a=0219&b=603
+http://192.168.123.1:88/4k.php?a=0219&b=603
 #EXTINF:-1 tvg-name="凤凰中文",凤凰卫视中文[高清][非官方]
 http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯",凤凰卫视资讯[高清][非官方]
